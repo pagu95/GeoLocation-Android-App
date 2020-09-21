@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">it21326</string>
+    <string name="longitude">longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="user_id">user id</string>
+    <string name="timestamp">timestamp</string>
+    <string name="search_by_user_id">search by user id</string>
+</resources>
